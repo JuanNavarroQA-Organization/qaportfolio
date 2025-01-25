@@ -1,6 +1,6 @@
 # QA PORTFOLIO
 This is my QA portfolio.
-[Juan Navarro PORTFOLIO](https://bootcamp-qa.github.io/web-portfolio-template)
+[Juan Navarro PORTFOLIO](https://juannavarroqa-organization.github.io/qaportfolio/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
