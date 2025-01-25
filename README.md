@@ -1,6 +1,6 @@
 # QA PORTFOLIO
 This is my QA portfolio.
-[Juan Navarro PORTFOLIO](https://bootcamp-qa.github.io/web-portfolio-template)
+[Juan Navarro PORTFOLIO](https://juannavarroqa-organization.github.io/qaportfolio/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ The testing will validate the core functionalities of the portfolio web applicat
 - Verify that existing functionalities remain unaffected after releases through regression testing at the end of each sprint.
 
 ### 5. Features to be Tested
-[JIRA PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
+[JIRA PROJECT](https://juanqa.atlassian.net/jira/software/projects/LEARNQA/boards/1)
 The following user stories are included in the testing scope:
 1. **Header Section**: Includes links to LinkedIn and GitHub, and displays the full name and title.
 2. **About Me Section**: Presents a personal introduction.
@@ -65,4 +65,4 @@ Release will be consider ready when:
 
 ## AUTHOR
 Juan Navarro, QA Tester
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/juan-sebastian-navarro-paez-334767316/)
